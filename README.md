@@ -1,0 +1,2 @@
+# sober
+Theme for vscode
