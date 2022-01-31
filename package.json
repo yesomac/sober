@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "./img/dark.png",
+    "icon": "img/dark.png",
     "author": {
         "name": "Yes Code",
         "email": "yesdev19@gmial.com"
