@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sober",
+                "label": "Sober_theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-color-theme.json"
             }
