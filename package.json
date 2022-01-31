@@ -1,0 +1,32 @@
+{
+    "name": "sober",
+    "displayName": "sober",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-color-theme.json"
+            }
+        ]
+    },
+    "icon": "d",
+    "author": {
+        "name": "Yes Code",
+        "email": "yesdev19@gmial.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/sober.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
