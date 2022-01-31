@@ -1,5 +1,7 @@
 # Sober Theme
 ## 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](codeII.png)
+##
+![This is an image](codeIII.png)
 
 
