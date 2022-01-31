@@ -14,7 +14,7 @@
             {
                 "label": "Sober_theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Sober-color-theme.json"
+                "path": "./themes/SoberTheme-color-theme.json"
             }
         ]
     },
