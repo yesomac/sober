@@ -24,17 +24,17 @@
                 "path": "./themes/SoberTheme-color-theme.json"
             },
             {
-                "label": "SoberTheme Afternoon",
+                "label": "SoberTheme - Afternoon",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-afternoon.json"
             },
             {
-                "label": "SoberTheme Midnight",
+                "label": "SoberTheme - Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-midnight.json"
             },
             {
-                "label": "SoberTheme Deepnight",
+                "label": "SoberTheme - Deepnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-deepnight.json"
             }
