@@ -7,8 +7,6 @@
 Afternoon Sober
 ![This is a image](https://github.com/yesomac/sober/blob/master/afternoon.png?raw=true)
 
-![This is a image](https://github.com/yesomac/sober/blob/master/afternoonII.png?raw=true)
-
 #
 Midnight Sober
 ![This is a image](https://github.com/yesomac/sober/blob/master/midnight.png?raw=true)
