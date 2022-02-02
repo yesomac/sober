@@ -9,12 +9,34 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Themes",
+        "SoberTheme",
+        "SoberTheme Afternoon",
+        "SoberTheme Midnight",
+        "SoberTheme Deepnight"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "SoberTheme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme.json"
+            },
+            {
+                "label": "SoberTheme Afternoon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-color-theme-afternoon.json"
+            },
+            {
+                "label": "SoberTheme Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-color-theme-midnight.json"
+            },
+            {
+                "label": "SoberTheme Deepnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-color-theme-deepnight.json"
             }
         ]
     },
