@@ -2,7 +2,7 @@
     "name": "soberTheme",
     "displayName": "SoberTheme",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -14,7 +14,8 @@
         "SoberTheme",
         "SoberTheme Afternoon",
         "SoberTheme Midnight",
-        "SoberTheme Deepnight"
+        "SoberTheme Deepnight",
+        "SoberTheme Good Night"
     ],
     "contributes": {
         "themes": [
@@ -37,6 +38,11 @@
                 "label": "SoberTheme - Deepnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-deepnight.json"
+            },
+            {
+                "label": "SoberTheme - Good Nigth",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-color-theme-nightnight.json"
             }
         ]
     },

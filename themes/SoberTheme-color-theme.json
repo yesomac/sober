@@ -10,6 +10,8 @@
 		"activityBarBadge.background": "#095b92",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBar.background": "#041e42",
+		"statusBar.noFolderBackground": "#000914",
+		"statusBar.debuggingBackground": "#02388a",
 		"sideBar.background": "#1F2937",
 		"sideBarSectionHeader.background": "#1F2937",
 		"sideBarSectionHeader.foreground": "#8ec3ff",
