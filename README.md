@@ -14,3 +14,11 @@ Midnight Sober
 #
 Deepnight Sober
 ![This is a image](https://github.com/yesomac/sober/blob/master/deepnight.png?raw=true)
+
+#
+Deepnight Sober
+![This is a image](https://github.com/yesomac/sober/blob/master/sober-blue-haze.png?raw=true)
+
+#
+Deepnight Sober
+![This is a image](https://github.com/yesomac/sober/blob/master/sober-blue-hazeII.png?raw=true)
