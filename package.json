@@ -2,7 +2,7 @@
     "name": "soberTheme",
     "displayName": "SoberTheme",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -15,7 +15,9 @@
         "SoberTheme Afternoon",
         "SoberTheme Midnight",
         "SoberTheme Deepnight",
-        "SoberTheme Good Night"
+        "SoberTheme Good Night",
+        "SoberTheme - Blue Haze",
+        "SoberTheme - Blue Haze II"
     ],
     "contributes": {
         "themes": [
@@ -43,6 +45,16 @@
                 "label": "SoberTheme - Good Nigth",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-nightnight.json"
+            },
+            {
+                "label": "SoberTheme - Blue Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-blue-haze-color-thema.json"
+            },
+            {
+                "label": "SoberTheme - Blue Haze II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-blue-hazeII-color-theme.json"
             }
         ]
     },
