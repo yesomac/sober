@@ -12,10 +12,13 @@
 		"sideBar.background": "#020A15",
 		"sideBarSectionHeader.background": "#020A15",
 		"sideBarSectionHeader.foreground": "#8ec3ff",
-		"tab.activeBackground": "#020A15",
+		"tab.activeBackground": "#04142b",
 		"tab.inactiveBackground": "#020A15",
 		"tab.hoverBackground": "#05144796",
-		"tab.activeBorder": "#4e97fd",
+		"tab.activeBorder": "#020A15",
+		"tab.border": "#020A15",
+		"tab.activeBorderTop": "#081b35",
+
 		"tab.activeForeground": "#ecf0f5",
 		"activityBar.background": "#020A15",
 		"titleBar.activeBackground": "#020A15",
@@ -72,7 +75,12 @@
 		"terminal.ansiMagenta": "#8F4673",
 		"terminal.ansiRed": "#FB543F",
 		"terminal.ansiWhite": "#A89984",
-		"terminal.ansiYellow": "#FAC03B"
+		"terminal.ansiYellow": "#FAC03B",
+
+		"sideBarSectionHeader.border": "#8ec3ff2c",
+		"activityBar.border": "#8ec3ff2c",
+		"activityBar.activeBorder": "#8ec3ff",
+		"sideBar.border": "#232944"
     },
     "tokenColors": [
 		{

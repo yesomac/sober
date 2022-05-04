@@ -2,7 +2,7 @@
     "name": "soberTheme",
     "displayName": "SoberTheme",
     "description": "",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -12,6 +12,7 @@
     "keywords": [
         "Themes",
         "SoberTheme",
+        "SoberTheme - Space",
         "SoberTheme Afternoon",
         "SoberTheme Midnight",
         "SoberTheme Deepnight",
@@ -27,32 +28,37 @@
                 "path": "./themes/SoberTheme-color-theme.json"
             },
             {
-                "label": "SoberTheme - Afternoon",
+                "label": "SoberTheme Space",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoberTheme-blue-color-theme.json"
+            },
+            {
+                "label": "SoberTheme Afternoon",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-afternoon.json"
             },
             {
-                "label": "SoberTheme - Midnight",
+                "label": "SoberTheme Midnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-midnight.json"
             },
             {
-                "label": "SoberTheme - Deepnight",
+                "label": "SoberTheme Deepnight",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-deepnight.json"
             },
             {
-                "label": "SoberTheme - Good Nigth",
+                "label": "SoberTheme Good Nigth",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-color-theme-nightnight.json"
             },
             {
-                "label": "SoberTheme - Blue Haze",
+                "label": "SoberTheme Blue Haze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-blue-haze-color-thema.json"
             },
             {
-                "label": "SoberTheme - Blue Haze II",
+                "label": "SoberTheme Blue Haze II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SoberTheme-blue-hazeII-color-theme.json"
             }

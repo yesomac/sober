@@ -15,8 +15,11 @@
 		"tab.activeBackground": "#1c324d",
 		"tab.inactiveBackground": "#14243a",
 		"tab.hoverBackground": "#1c3d68c2",
-		"tab.activeBorder": "#4e97fd",
+		"tab.activeBorder": "#14243a",
 		"tab.activeForeground": "#ecf0f5",
+		"tab.activeBorderTop": "#14243a",
+		"tab.border": "#14243a",
+
 		"activityBar.background": "#14243a",
 		"titleBar.activeBackground": "#14243a",
 		"editorGroupHeader.tabsBackground": "#14243a",
