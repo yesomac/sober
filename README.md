@@ -1,5 +1,13 @@
 # Sober Theme
 
+# *New
+Sober Space
+![This is a image](https://github.com/yesomac/sober/blob/master/screenshot/sobertheme_space_9.png?raw=true)
+
+![This is a image](https://github.com/yesomac/sober/blob/master/screenshot/sobertheme_space_8.png?raw=true)
+
+#
+Sober Theme
 ![This is an image](https://github.com/yesomac/sober/blob/master/screenshot/sobertheme_1.png?raw=true)
 #
 Afternoon Sober
@@ -21,7 +29,9 @@ Deepnight Sober
 Blue Haze | Blue Haze Sober
 ![This is a image](https://github.com/yesomac/sober/blob/master/screenshot/sobertheme_haze_5.png?raw=true)
 
-#
-Sober Space
-![This is a image](https://github.com/yesomac/sober/blob/master/screenshot/sobertheme_space_8.png?raw=true)
+![This is a image](https://github.com/yesomac/sober/blob/master/screenshot/soberthemeII_haze_6.png?raw=true)
 
+---
+Font: JetBrains Mono - https://www.jetbrains.com/lp/mono/
+
+Icons: Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
